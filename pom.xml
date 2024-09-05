@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://15.152.36.246:9000/</sonar.host.url>
+		<sonar.host.url>http://13.208.70.25:9000/</sonar.host.url>
 		<sonar.login>squ_d68272df563ee0496cb52c0e0f18ac5f8c32636e</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>siddiqui Releases Nexus Repository</name>
-	      <url>http://13.208.186.139:8081/repository/canarabank-realses/</url>
+	      <url>http://13.208.181.44:8081/repository/canarabank-realses/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>siddiqui Snapshot Nexus Repository</name>
-	      <url>http://13.208.186.139:8081/repository/canarabank-snapshot/</url>
+	      <url>http://13.208.181.44:8081/repository/canarabank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
