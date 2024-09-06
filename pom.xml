@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>siddiqui Releases Nexus Repository</name>
-	      <url>http://13.208.181.44:8081/repository/canarabank-realses/</url>
+	      <url>http://13.208.240.118:8081/repository/canarabank-dev/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>siddiqui Snapshot Nexus Repository</name>
-	      <url>http://13.208.181.44:8081/repository/canarabank-snapshot/</url>
+	      <url>http://13.208.240.118:8081/repository/canarabank-snapsshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
